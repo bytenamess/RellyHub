@@ -1,0 +1,7 @@
+local placeId = game.PlaceId
+
+if placeId == 126884695634066 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/bytenamess/RellyHub/refs/heads/main/growagarden.lua"))()
+elseif placeId == 142823291 then
+    print("coming soon")
+end
